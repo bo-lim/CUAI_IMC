@@ -5,5 +5,5 @@
 
 ## Topic
 <li>
-  <ul><b>Laptop priec prediction</b>
+  <ul>Laptop price prediction
 </li>
