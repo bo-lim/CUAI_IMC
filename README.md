@@ -4,6 +4,4 @@
 ## Using data, I'm learning about Machine Learning.
 
 ## Topic
-<li>
-  <ul>Laptop price prediction
-</li>
+<ul><b>Laptop price prediction
